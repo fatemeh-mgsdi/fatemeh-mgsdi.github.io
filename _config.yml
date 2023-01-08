@@ -2,7 +2,7 @@
 
 # Import the theme
 theme: jekyll-theme-chirpy
-
+remote_theme: jekyll-theme-chirpy
 # Change the following value to '/PROJECT_NAME' ONLY IF your site type is GitHub Pages Project sites
 # and doesn't have a custom domain.
 baseurl: ''
@@ -44,7 +44,7 @@ social:
     - https://github.com/fatemeh-mgsdi       # change to your github homepage
     # Uncomment below to add more social links
     # - https://www.facebook.com/username
-    # - https://www.linkedin.com/in/username
+    - https://www.linkedin.com/in/fatemehmaghsoudi
 
 google_site_verification:               # fill in to your verification string
 
