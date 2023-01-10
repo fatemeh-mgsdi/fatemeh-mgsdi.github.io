@@ -17,6 +17,6 @@ At first, I started using Google Doc as a place to keep my own writings, solutio
 
 I firmly believe that blogs are a two way conversation, so I welcome any suggestions – as long as they're on topic, more or less. So, let me know if there's anything you wanna talk about by:
 
-Email: [fatemeh.maghsoudi76@gmail.com](fatemeh.maghsoudi76@gmail.com)
+Email: fatemeh.maghsoudi76@gmail.com
 
 LinkedIn: [https://www.linkedin.com/in/fatemehmaghsoudi](https://www.linkedin.com/in/fatemehmaghsoudi)
