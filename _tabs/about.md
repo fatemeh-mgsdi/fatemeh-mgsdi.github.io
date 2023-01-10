@@ -8,7 +8,8 @@ I’m a back-end developer with three years of experience developing tools to he
 
 ![animation_coding](https://user-images.githubusercontent.com/33480382/211194911-aec500aa-c30a-461e-9631-133373d9aa01.gif)
 
-You can review my latest work in my Portfolio and read more about my biography, experience, skills, education and much more in my [resume](../assets/resume.pdf).
+Currently, I'm working as a back-end developer at [Tiss](https://tiss.co/), developing IoT based energy monitoring softwares, helping companies by bringing up solutions to monitor their energy efficiency.<br>
+Meanwhile, I'm working as a remote full-stack developer in [Techmockinterview](https://techmockinterview.com/), a platform that provides professional interviewers from big companies like Google, and Facebook to candidates who have dreams about working in those companies.
 
-With all that said, I don’t like to just define myself by the work I’ve done. My inspiration is boundless, it fuels me in the pursuit of cultivating new skills. My ability to juggle different projects and roles with relative ease is the key to my success.
+You can review my latest work in my portfolio and read more about my biography, experience, skills, education and much more in my [resume](../assets/resume.pdf).
 
